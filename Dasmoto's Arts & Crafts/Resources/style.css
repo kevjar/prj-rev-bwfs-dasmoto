@@ -1,0 +1,33 @@
+#pattern {
+    background-image:url("../Picture/pattern.jpeg");
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+    font-weight:bold;
+    font-family:Helvetica;
+
+  }
+  #brush {
+      background-color: MediumSpringGreen;
+      color: white;
+    font-size: 32px
+    font-weight:bold;
+    font-family:Helvetica;
+  }
+ #Frames {
+      background-color: lightcoral;
+      color: white;
+    font-size: 32px;
+    font-weight:bold;
+    font-family:Helvetica;
+
+  }
+  #finnish {
+    background-color: skyblue;
+    color: white;
+    font-size: 32px;
+    font-weight:bold;
+    font-family:Helvetica;
+    }
+.p1        {color:blue;
+}
